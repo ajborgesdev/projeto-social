@@ -42,3 +42,22 @@ main {
   height: 471px;
   width: 270px;
 }
+
+#redes-sociais {
+  align-items: end;
+  display: flex;
+  flex-direction: column;
+}
+
+#redes-sociais img {
+  width: 50px;
+  border-radius: 40px;
+  display: flex;
+  padding: 2px;
+  margin: 5px;
+}
+
+#redes-sociais img:hover {
+  border: 1px solid rgba(255, 255, 255, 0.551);
+  transform: translate(-5px, -5px);
+}
