@@ -40,7 +40,7 @@ main {
   top: 80px;
   left: 20px;
   height: 471px;
-  width: 270px;
+  width: 269px;
 }
 
 #redes-sociais {
@@ -52,12 +52,51 @@ main {
 #redes-sociais img {
   width: 50px;
   border-radius: 40px;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.618);
+  box-sizing: border-box;
   display: flex;
   padding: 2px;
-  margin: 5px;
+  margin: 10px;
 }
 
 #redes-sociais img:hover {
   border: 1px solid rgba(255, 255, 255, 0.551);
   transform: translate(-5px, -5px);
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.615);
+  transition: 0.5s;
+}
+
+@media (max-width: 600px) {
+  #redes-sociais {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    position: relative;
+    
+  }
+}
+
+@media (max-width: 599px) {
+  #telefone {
+    position: absolute;
+    top: 56%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 311px;
+    height: 627px;
+  }
+
+  #tela {
+    position: relative;
+    top: 80px;
+    left: 20px;
+    height: 471px;
+    width: 269px;
+  }
+
+  #redes-sociais {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    position: relative;
 }
