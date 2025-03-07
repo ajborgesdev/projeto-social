@@ -2,7 +2,7 @@
 
 ![Imagem da Tela Inicial](./imagens/apresentacao-projetosocial.jpg)
 
-Este projeto é uma página web interativa que exibe ícones das minhas redes sociais. Ao clicar nos ícones você poderá vê-las, e ao rolar até o final da página, os usuários podem clicar no botão e serem redirecionados para minhas redes sociais.
+Este projeto foi proposto pelo professor Gustavo Guanabara, no site Curso em Vídeo. O que apresento é uma página web interativa que exibe ícones das minhas redes sociais. Ao clicar nos ícones você poderá vê-las, e ao rolar até o final da página, os usuários podem clicar no botão e serem redirecionados para minhas redes sociais.
 
 ## Índice
 
@@ -18,7 +18,7 @@ Este projeto é uma página web interativa que exibe ícones das minhas redes so
 
 ## Visão Geral
 
-Este projeto é uma página web interativa que dá acesso às minhas redes sociais de forma intuitiva. A página contém ícones das principais plataformas (como Facebook, Instagram, Youtube e Github), que, ao serem clicados, direcionam o usuário diretamente para os respectivos perfis. Além disso, ao rolar a página, o usuário encontra um botão que também facilita o acesso rápido a todas as redes sociais. O design foi pensado para ser simples, responsivo e de fácil navegação, garantindo uma experiência agradável em qualquer dispositivo.
+A página do projeto contém ícones das principais plataformas (como Facebook, Instagram, Youtube e Github), que, ao serem clicados, direcionam o usuário diretamente para os respectivos perfis. Além disso, ao rolar a página, o usuário encontra um botão que também facilita o acesso rápido a todas as redes sociais. O design foi pensado para ser simples, responsivo e de fácil navegação, garantindo uma experiência agradável em qualquer dispositivo.
 
 ## Funcionalidades
 
@@ -103,6 +103,6 @@ Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICE
 
 ## Contato
 
-- **Ana Julia Borges** - [ajborges03@gmail.com](mailto:anajborges03@gmail.com)
+- **Ana Julia Borges** - [anajborges03@gmail.com](mailto:anajborges03@gmail.com)
 - **GitHub** - [ajborgesdev](https://github.com/ajborgesdev)
 - **LinkedIn** - [Ana Julia Borges](https://www.linkedin.com/in/ajborgesdev/)
