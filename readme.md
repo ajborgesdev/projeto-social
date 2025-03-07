@@ -1,6 +1,8 @@
 
 # Projeto Redes Sociais
 
+![Imagem da Tela Inicial](./imagens/apresentacao-projetosocial.jpg)
+
 Este projeto é uma página web interativa que exibe ícones das minhas redes sociais. Ao clicar nos ícones você poderá vê-las, e ao rolar até o final da página, os usuários podem clicar no botão e serem redirecionados para minhas redes sociais.
 
 ## Índice
