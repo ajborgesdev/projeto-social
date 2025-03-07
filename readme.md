@@ -1,4 +1,3 @@
-
 # Projeto Redes Sociais
 
 ![Imagem da Tela Inicial](./imagens/apresentacao-projetosocial.jpg)
